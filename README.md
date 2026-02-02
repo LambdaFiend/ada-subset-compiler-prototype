@@ -1,4 +1,4 @@
-# ada-compiler-prototype
+# ada-subset-compiler-prototype
 
 A compiler for a subset of the Ada programming language.
 
